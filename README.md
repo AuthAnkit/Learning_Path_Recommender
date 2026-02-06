@@ -64,7 +64,12 @@ Personalized Learning Roadmap
 
 ## ▶️ How to Run Locally
 
-```bash
+bash
 pip install -r requirements.txt
 streamlit run app.py
 
+
+ScreenShots: 
+<img width="1918" height="1032" alt="screenshot1" src="https://github.com/user-attachments/assets/c88194e5-24e4-48fc-b881-4c04609a0eea" />
+<img width="1914" height="1036" alt="screenshot2" src="https://github.com/user-attachments/assets/8084044c-4c96-4092-b768-4c3a939662c3" />
+<img width="1919" height="935" alt="screenshot3" src="https://github.com/user-attachments/assets/1a3a220b-3a32-451a-b049-6e391f676dd3" />
